@@ -1,6 +1,7 @@
-652df67 Fix log
-edb10e3 Complete Task 2.1
-262c4d6 Task 2.1-2.4
+478cb25 Complete Task 2.2
+6650df8 Fix log
+2a14530 Complete Task 2.1
+86efa67 Task 2.1.1-2.1.4
 635383c Compelete Task 1.2
 53c26be Complete Task 1.1
 79a2472 Initial commit
